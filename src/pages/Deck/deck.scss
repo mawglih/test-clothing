@@ -1,0 +1,21 @@
+.content-deck {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.draw-btn {
+  background-color: greenyellow;
+  color: black;
+  padding: 20px 40px;
+}
+.container {
+  background-color: black;
+  color: gold;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}

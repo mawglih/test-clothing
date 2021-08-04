@@ -1,0 +1,14 @@
+.todo-main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.todo-item {
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+  border: gold 1px solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}

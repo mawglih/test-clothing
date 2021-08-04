@@ -1,0 +1,18 @@
+.lightsboard {
+  display: flex;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.board {
+  margin: 0 auto;
+}
+.boardCell {
+  width: 50px;
+  height: 50px;
+  background-color: tomato;
+  border: 1px solid black;
+  box-sizing: border-box;
+}

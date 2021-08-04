@@ -1,0 +1,35 @@
+.todo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.todo-content {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+.form-todo {
+  padding: 20px;
+}
+.todo-single {
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items:center ;
+}
+.todo-title {
+  margin-right: 20px;
+  text-align: left;
+  color: white;
+}
+.todo-buttons {
+  align-self: flex-end;
+}
+.completed {
+  color: gray;
+  text-decoration: line-through;
+}

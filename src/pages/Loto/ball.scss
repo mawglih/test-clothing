@@ -1,0 +1,24 @@
+.ball {
+  background-color: tomato;
+  border-radius: 50%;
+  display: inline-block;
+  width: 3em;
+  height: 2.25em;
+  font-weight: bold;
+  padding-top: .75em;
+  text-align: center;
+  font-size: 1.5em;
+  margin-right: .5em;
+}
+
+.lottery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.loto {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

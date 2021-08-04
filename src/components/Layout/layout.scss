@@ -1,0 +1,20 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start
+;
+}
+.logo-nav {
+  flex: 0 1 15%;
+  padding: 20px 40px;
+}
+.all-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex: 1 1 auto;
+}
+.nav-link {
+  width: 10%;
+  padding: 20px 40px;
+}
